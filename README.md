@@ -3,6 +3,7 @@
 Whatsapp UI  built with Flutter;
 it is compatible and responsive with any type of Android and iOS devices.
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
